@@ -19,16 +19,14 @@ header {
     border-width: 15px;
 }
 
-.start{
-    margin-left: 50px;
-    color: white;
-    text-align: center;
-    width: 600px;
-    height: 30px;
+.navy {
+    width: auto;
+    height: auto;
+    background-color: lightgrey ;
 }
 
 nav {
-    text-align: right;
+    text-align: center;
 }
 
 nav > a {
@@ -52,8 +50,6 @@ nav > a {
 }
 
 .pp {
-
-
     height: 350px;
     width: 350px;
     padding-top: 30px;
@@ -72,5 +68,4 @@ nav > a {
     border-style: solid;
     border-color: rgb(2, 2, 121);
     border-width: 10px;
-
 }
